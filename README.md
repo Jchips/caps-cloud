@@ -6,11 +6,12 @@
 
 ### Problem Domain
 
-Cloud version of the CAPS system using only AWS Services: SQS, SNS, and client applications.
+Cloud version of the CAPS (Code Academy Parcel Service) system using only AWS Services: SQS, SNS, and client applications.
 
 ### Links and Resources
 
 - [Pull Request](https://github.com/Jchips/caps-cloud/pull/1)
+- [Cloudless (original) version](https://github.com/Jchips/caps/tree/main)
 
 ### Logs
 
